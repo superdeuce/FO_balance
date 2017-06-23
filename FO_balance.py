@@ -1,4 +1,5 @@
 """
+this is a test version
 for reading balance digits during a FO measurement
 written by Chih-Hao 2017/06/15
 """
